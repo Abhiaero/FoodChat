@@ -1,7 +1,7 @@
 streamlit==1.37.0
 pandas==2.2.2
 langchain==0.2.12
-langchain-google-genai==0.0.9
+langchain-google-genai==1.0.7
 langchain-community==0.2.11
 sentence-transformers==2.2.2
 faiss-cpu==1.7.4
